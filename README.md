@@ -6,3 +6,4 @@ el proyecto contara con lo siguiente:
 
 - Plataforma para la administracion de posts
 - almacenamiento de datos en una base de datos
+- creacion de reportes
